@@ -6,12 +6,12 @@ class Plomid < Formula
 
   on_arm do
     url "https://github.com/PLOMID/plomid/releases/download/v0.1.0-beta.1/plomid-v0.1.0-beta.1-macos-arm64.tar.gz"
-    sha256 "cf7408eebb7cf79e8f873f851bf3c31fce7a1f823fa13e1da42cefdc773cf609"
+    sha256 "3dc101b05a7240bbca7ecb03d5a8f3962f9287029dd2b652c1d361c2b752af19"
   end
 
   on_intel do
     url "https://github.com/PLOMID/plomid/releases/download/v0.1.0-beta.1/plomid-v0.1.0-beta.1-macos-x64.tar.gz"
-    sha256 "9cfc168facad56e2d7d937312778ed8e35d197cb024fc354cfde9a6337493871"
+    sha256 "c3d7b39fc284b467766ca7dae0aaab690c448a8fe924325f5881d551f809527f"
   end
 
   def install
